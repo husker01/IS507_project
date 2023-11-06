@@ -1,4 +1,4 @@
-# IS525-Final-Project
+# IS507-Final-Project
 
 # Chicago Energy Consumption Forecasting
 
